@@ -3,7 +3,7 @@
 
 # Introduction
 
-Welcome to our project! In this project, we focus on optimizing the YOLOv8 model as our baseline model for object detection tasks. All experiments and result analyses are based on the YOLOv8 architecture. Additionally, we have reproduced the YOLOv5 model, achieving the basic functionality of object detection. Below, you'll find instructions on how to run both YOLOv8 and YOLOv5 models.
+Welcome to our project! In this project, we focus on optimizing the YOLOv8 model as our baseline model for object detection tasks. All experiments and result analyses are based on the YOLOv8 architecture.
 
 The code for data analysis and data preprocessing can be found in the following notebooks:
 
